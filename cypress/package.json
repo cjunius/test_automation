@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjunius/test_automation.git"
+  },
+  "author": "Christopher Junius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjunius/test_automation/issues"
+  },
+  "homepage": "https://github.com/cjunius/test_automation#readme",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
